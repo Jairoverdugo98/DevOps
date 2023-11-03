@@ -11,4 +11,4 @@ Los principales objetivos de un Devops son:
 - Tiempo de despliegue más rápido (en caso de que una nueva versión tenga inconsistencias)
 - Velocidad de reacción en caso de que una versión desplegada falle
 
-![image](/img/devops2.jpg)
+![image](/img/devops2.jpeg)
