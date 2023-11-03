@@ -5,7 +5,7 @@
 
 2.- [Administradores de sistemas](documentacion/administrador)
 
-3.- [Desarrolladores](documentacion/desarolllador)
+3.- [Desarrolladores](documentacion/desarrollador)
 
 4.- [Devops](documentacion/devops)
    
